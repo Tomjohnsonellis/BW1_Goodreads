@@ -8,25 +8,8 @@ We will be presenting our findings to a non-technical audience who will be highl
 
 
 ## [The Team](team.md)
-
-
 - - -
-## Project Outline
+## [Project Outline](outline.md)
 
-- Identiifying the task
-
-- Plan of attack
-
-- Data collection
-
-- Data Processing
-
-- Data Analysis
-
-- Collect Findings
-
-- Tidy Up
-
-- Present
 
   
